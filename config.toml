@@ -1,0 +1,4 @@
+baseURL = 'https://phcurado.github.io/'
+languageCode = 'en-us'
+title = 'phcurado'
+theme = 'ananke'
