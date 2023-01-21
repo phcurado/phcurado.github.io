@@ -7,7 +7,7 @@ theme = 'paper'
   color = 'linen'                           # linen, wheat, gray, light
 
   # header social icons
-  github = 'github.com/phcurado'
+  github = 'phcurado'
   rss = true                                # show rss icon
 
   # home page profile

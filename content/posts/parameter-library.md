@@ -1,7 +1,7 @@
 ---
 title: "Serializing and Deserializing external data in Elixir"
-date: 2022-12-30T10:11:21+02:00
-draft: true
+date: 2022-01-21T10:11:21+02:00
+draft: false
 ---
 
 
