@@ -1,7 +1,7 @@
 ---
 title: "Using Parameter for dealing with API request and responses"
 date: 2023-01-21T17:53:41+02:00
-draft: true
+draft: false
 ---
 
 This is a continuation from the previous article [Serializing and Deserializing external data in Elixir]({{< ref "serializing-and-deserializing-external-data-in-elixir" >}}).
